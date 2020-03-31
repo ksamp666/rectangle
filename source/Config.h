@@ -1,0 +1,27 @@
+//
+// Created by Семен Копаниров on 2020-03-28.
+//
+
+#ifndef RECTANGLE_CONFIG_H
+#define RECTANGLE_CONFIG_H
+
+#define FAKED_RENDER_TIME_MIN 10
+#define FAKED_RENDER_TIME_MAX 100
+#define FAKED_RENDER_TIME_MEDIAN 33
+#define ROTATION_SPEED_MIN 50
+#define ROTATION_SPEED_MAX 150
+#define WINDOW_TITLE "Rectangle"
+#define WINDOW_WIDTH 1500
+#define WINDOW_HEIGHT 1000
+#define RECTANGLE_WIDTH 500
+#define RECTANGLE_HEIGHT 300
+#define RECTANGLE_POSITION_X 600
+#define RECTANGLE_POSITION_Y 500
+#define TEXT_STRING "Number of full rotations: "
+#define TEXT_POSITION_X 50
+#define TEXT_POSITION_Y 50
+#define TEXT_FONT_FILE "arial.ttf"
+#define TEXT_SIZE 36
+#define CRASH_CHANCE 20
+
+#endif //RECTANGLE_CONFIG_H
